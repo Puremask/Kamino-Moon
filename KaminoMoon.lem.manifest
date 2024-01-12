@@ -1,0 +1,284 @@
+ManifestFileVersion: 0
+CRC: 3432265524
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3d10cd5580bd9f9bfbbf87b3cafaaa9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fc88f849ca9175ea4b4c854076bc98ee
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e3d10cd5580bd9f9bfbbf87b3cafaaa9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 880151135, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 85075132, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1569631092, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1750259433, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23c1ce4fb46143f46bc5cb5224c934f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1fbb15bf92b84f40a1eb030765b5afe, type: 3}
+- Class: 114
+  Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1366554475, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1946537778, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1231276594, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 414444751, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1029476188, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1014499492, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 1247577677, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1536622716, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -945623945, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1213317757, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: -1265089256, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 808788885, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 35e95dc5ff2b64380880dd7ac5922847, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1e3fdca004f2d45fe8abbed571a8abd5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 191
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+- Class: 208
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.DungeonFlowPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.PlanetPrefabInfoPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.RandomWeatherPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.ScrapSpawnChancePerScene
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SerializableVersion
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableEnemiesPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableMapObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableOutsideObjectPair
+- AssemblyName: LethalSDK
+  ClassName: LethalSDK.Utils.SpawnableScrapPair
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BitArray128
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.BoolScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.FrameSettingsOverrideMask
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.HDPhysicalCamera
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.IntScalableSettingValue
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.LocalVolumetricFogArtistParameters
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteFrameSettings
+- AssemblyName: Unity.RenderPipelines.HighDefinition.Runtime
+  ClassName: UnityEngine.Rendering.HighDefinition.ObsoleteLightLoopSettings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Object]
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent`1[System.Single]
+Assets:
+- Assets/Mods/Kamino/kaminomodels/led_1.obj
+- Assets/Mods/Kamino/items/scraps/pills/pills.asset
+- Assets/Mods/Kamino/items/scraps/tape/survivaltools2_tape_metallicsmoothness.png
+- Assets/Mods/Kamino/items/scraps/cannedfood/cannedfood.mat
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matches_metallicsmoothness.png
+- Assets/Mods/Kamino/kaminomodels/edge_1.obj
+- Assets/Mods/Kamino/moons/testmoon.asset
+- Assets/Mods/Kamino/ship/textures 1/dull_metal_normal-ogl.png
+- Assets/Mods/Kamino/items/scraps/pills/survivaltools2_pills_metallicsmoothness.png
+- Assets/Mods/Kamino/ship/textures 1/delta-7 other bits.png
+- Assets/Mods/Kamino/items/scraps/cannedfood/survivaltools2_cannedfood_normal.png
+- Assets/Mods/Kamino/items/scraps/battery/battery.mat
+- Assets/Mods/Kamino/items/scraps/battery/battery.asset
+- Assets/Mods/Kamino/moons/oldseaportplanetprefabmaterial.mat
+- Assets/Mods/Kamino/items/scraps/battery/survivaltools2_battery_metallicsmoothness.png
+- Assets/Mods/Kamino/kaminomodelsnew/metal 7.mat
+- Assets/Mods/Kamino/ship/textures 1/delta-7b other bits.png
+- Assets/Mods/Kamino/items/scraps/matchbox/matchbox.fbx
+- Assets/Mods/Kamino/kaminomodels/tower_section.obj
+- Assets/Mods/Kamino/items/scraps/cannedfood/survivaltools2_cannedfood_albedotransparency.png
+- Assets/Mods/Kamino/kaminomodels/top_1.obj
+- Assets/Mods/Kamino/items/scraps/battery/battery.prefab
+- Assets/Mods/Kamino/items/scraps/tape/survivaltools2_tape_normal.png
+- Assets/Mods/Kamino/items/scraps/matchbox/matchbox.prefab
+- Assets/Mods/Kamino/items/scraps/cannedfood/cannedfood.asset
+- Assets/Mods/Kamino/ship/delta7.obj
+- Assets/Mods/Kamino/items/scraps/helmet/14 - default 1.mat
+- Assets/Mods/Kamino/kaminomodels/led_bridge_stairs.obj
+- Assets/Mods/Kamino/items/scraps/helmet/new material.mat
+- Assets/Mods/Kamino/items/scraps/helmet/clone helmet.fbx
+- Assets/Mods/Kamino/moons/kamino.asset
+- Assets/Mods/Kamino/moons/testmoonnavmesh.asset
+- Assets/Mods/Kamino/items/scraps/helmet/14 - default.mat
+- Assets/Mods/Kamino/items/scraps/tape/survivaltools2_tape_albedotransparency.png
+- Assets/Mods/Kamino/kaminomodelsnew/star wars episode ii - attack of the clones
+  - obi-wan kenobi arrives on kamino - 4k ultra hd. - trim.mp4
+- Assets/Mods/Kamino/items/scraps/helmet/helmet.fw.png_specular.jpg
+- Assets/Mods/Kamino/items/scraps/matchbox/matches.mat
+- Assets/Mods/Kamino/items/scraps/helmet/helmet.prefab
+- Assets/Mods/Kamino/ship/textures 1/dull_metal_roughness.png
+- Assets/Mods/Kamino/items/scraps/battery/survivaltools2_battery_albedotransparency.png
+- Assets/Mods/Kamino/moons/testmoon.prefab
+- Assets/Mods/Kamino/kaminomodels/platform_handguard_1.obj
+- Assets/Mods/Kamino/items/scraps/pills/pills.mat
+- Assets/Mods/Kamino/kaminomodelsnew/metal.mat
+- Assets/Mods/Kamino/kaminomodelsnew/metal 8.mat
+- Assets/Mods/Kamino/items/scraps/helmet/blue.fw.png_specular.jpg
+- Assets/Mods/Kamino/kaminomodels/led_bridge.obj
+- Assets/Mods/Kamino/kaminomodelsnew/panel016.jpg30cbe72f-0c86-4b81-975b-e2678e2fd737larger.jpg
+- Assets/Mods/Kamino/items/scraps/helmet/03 - default.mat
+- Assets/Mods/Kamino/kaminomodels/full tower shit.prefab
+- Assets/Mods/Kamino/items/scraps/matchbox/matchbox.mat
+- Assets/Mods/Kamino/kaminomodels/longbridge.prefab
+- Assets/Mods/Kamino/items/scraps/helmet/08 - default.mat
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matchbox_metallicsmoothness.png
+- Assets/Mods/Kamino/kaminomodelsnew/metal 4.mat
+- Assets/Mods/Kamino/items/scraps/pills/pills.prefab
+- Assets/Mods/Kamino/kaminomodels/lightning_tower_base.obj
+- Assets/Mods/Kamino/kaminomodelsnew/uploads_files_3861017_starwarskaminoscene3.obj
+- Assets/Mods/Kamino/kaminomodelsnew/uploads_files_3861017_starwarskaminoscene3.fbx
+- Assets/Mods/Kamino/moons/oldseaportnavmesh.asset
+- Assets/Mods/Kamino/items/scraps/cannedfood/survivaltools2_cannedfood_metallicsmoothness.png
+- Assets/Mods/Kamino/moons/oldseaport.prefab
+- Assets/Mods/Kamino/items/scraps/cannedfood/cannedfood.prefab
+- Assets/Mods/Kamino/items/scraps/pills/survivaltools2_pills_albedotransparency.png
+- Assets/Mods/Kamino/kaminomodelsnew/d1ir0l8-8938ccbe-bee3-470d-8366-88d19c8c1e5a.jpg
+- Assets/Mods/Kamino/items/scraps/tape/tape.asset
+- Assets/Mods/Kamino/kaminomodels/platform_handguard_2.obj
+- Assets/Mods/Kamino/kaminomodels/bridge_main.obj
+- Assets/Mods/Kamino/kaminomodels/bridge_handguard.obj
+- Assets/Mods/Kamino/items/scraps/tape/tape.mat
+- Assets/Mods/Kamino/kaminomodelsnew/metal.jpeg
+- Assets/Mods/Kamino/moons/kaminonavmesh.asset
+- Assets/Mods/Kamino/items/scraps/helmet/helmet.fw.png
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matches_albedotransparency.png
+- Assets/Mods/Kamino/items/scraps/helmet/15 - default.mat
+- Assets/Mods/Kamino/kaminomodels/top 1 with edge.prefab
+- Assets/Mods/Kamino/items/scraps/tape/tape.prefab
+- Assets/Mods/Kamino/items/scraps/matchbox/matchbox.asset
+- Assets/Mods/Kamino/kaminomodelsnew/metal 6.mat
+- Assets/Mods/Kamino/moons/kaminoplanetmaterial.mat
+- Assets/Mods/Kamino/items/scraps/helmet/blue.fw.png
+- Assets/Mods/Kamino/moons/oldseaportmoonvideo.mp4
+- Assets/Mods/Kamino/items/scraps/pills/survivaltools2_pills_normal.png
+- Assets/Mods/Kamino/kaminomodelsnew/mjstflat01.png
+- Assets/Mods/Kamino/kaminomodels/gameobject.prefab
+- Assets/Mods/Kamino/items/scraps/tape/tape.fbx
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matchbox_albedotransparency.png
+- Assets/Mods/Kamino/items/scraps/pills/pills.fbx
+- Assets/Mods/Kamino/moons/oldseaportplanetprefabtexture.png
+- Assets/Mods/Kamino/ship/textures 1/delta-7 hull.png
+- Assets/Mods/Kamino/kaminomodelsnew/11574.jpg
+- Assets/Mods/Kamino/items/scraps/helmet/09 - default.mat
+- Assets/Mods/Kamino/kaminoassetbank.asset
+- Assets/Mods/Kamino/moons/oldseaportplanetprefab.prefab
+- Assets/Mods/Kamino/modmanifest.asset
+- Assets/Mods/Kamino/kaminomodelsnew/door.mat
+- Assets/Mods/Kamino/items/scraps/cannedfood/cannedfood.fbx
+- Assets/Mods/Kamino/moons/kaminoplanetprefab.prefab
+- Assets/Mods/Kamino/kaminomodels/bridge_main_stairs.obj
+- Assets/Mods/Kamino/kaminomodels/lightning_tower_top.obj
+- Assets/Mods/Kamino/kaminomodelsnew/metal 5.mat
+- Assets/Mods/Kamino/kaminomodels/platform_end.obj
+- Assets/Mods/Kamino/items/scraps/battery/survivaltools2_battery_normal.png
+- Assets/Mods/Kamino/kaminomodels/gameobject 1.prefab
+- Assets/Mods/Kamino/kaminomodelsnew/metal 2.mat
+- Assets/Mods/Kamino/kaminomodelsnew/metal 1.mat
+- Assets/Mods/Kamino/ship/textures 1/dull_metal_metallic.png
+- Assets/Mods/Kamino/items/scraps/helmet/helmet.asset
+- Assets/Mods/Kamino/kaminomodels/middle_cover.obj
+- Assets/Mods/Kamino/items/scraps/battery/battery.fbx
+- Assets/Mods/Kamino/items/scraps/helmet/07 - default.mat
+- Assets/Mods/Kamino/moons/oldseaportmoon.asset
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matchbox_normal.png
+- Assets/Mods/Kamino/kaminomodels/lightning_tower_full.obj
+- Assets/Mods/Kamino/kaminomodelsnew/metal-door-texture-seamless-304.jpg
+- Assets/Mods/Kamino/moons/kamino.prefab
+- Assets/Mods/Kamino/ship/textures 1/astromech_vwing.png
+- Assets/Mods/Kamino/items/scraps/matchbox/survivaltools2_matches_normal.png
+- Assets/Mods/Kamino/kaminomodelsnew/metal 3.mat
+Dependencies:
+- D:/Downloads/LethalSDK_v1.3.17/LethalSDK_Project/Assets/AssetBundles/lethalexpansion.lem
